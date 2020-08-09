@@ -10,7 +10,7 @@ Updating automatically Personalize enables the recommender system to keep up to 
 
 ## Automatic updates
 
-Updating Personalize is done in 3 steps done with 3 different lambda functions 
+Updating Personalize is done in 3 steps with 3 different lambda functions 
 
 - Uploading new data and creating a new import job (ImportJob)
 - Creating a new solution version (UpdateSolutionVersion)
